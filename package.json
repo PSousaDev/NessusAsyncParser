@@ -1,0 +1,21 @@
+{
+  "name": "nessusasyncparser",
+  "version": "1.0.0",
+  "description": "Parser created with NodeJS to parse Nessus XML files to JSON",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "keywords": [],
+  "author": "Pedro Silva e Iuri aguiar",
+  "license": "ISC",
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
