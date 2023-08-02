@@ -9,5 +9,6 @@
     "skipLibCheck": true /* Skip type checking of declaration files. */,
     "forceConsistentCasingInFileNames": true /* Disallow inconsistently */
   },
+  "exclude": ["node_modules", "lib"],
   "include": ["src"]
 }
