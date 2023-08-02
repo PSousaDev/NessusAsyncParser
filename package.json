@@ -1,6 +1,6 @@
 {
   "name": "nessusasyncparser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parser created with NodeJS to parse Nessus XML files to JSON",
   "main": "index.js",
   "scripts": {
